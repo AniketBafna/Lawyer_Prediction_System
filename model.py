@@ -1,4 +1,4 @@
-from distutils.command.clean import clean
+#from distutils.command.clean import clean
 import pickle
 import re
 import nltk
